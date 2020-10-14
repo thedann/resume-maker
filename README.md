@@ -1,7 +1,7 @@
 # resume-maker
 
 ## What is this?
-The idea is that this repo can be a template for anyone that wants to create their resume in view.
+The idea is that this repo can be a template for anyone that wants to create their resume in Vue.
 
 
 ### Orignal Readme Below
